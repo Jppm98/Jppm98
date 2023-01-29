@@ -10,3 +10,9 @@
 - 📚 Im currentky learning ** React.js, Node.js **
 - 📧 My email is "Juanpablopillcomamani1998@gmail.com"
 
+<div align="left">
+  <h3> 🛠️ Lenguajes and Tools: </h3>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="40" height="40">
+   </div>
+</div>
