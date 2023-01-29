@@ -8,4 +8,5 @@
 
 - 📌 The technologies I use are ** html, css, javascript, c++ and c# **
 - 📚 Im currentky learning ** React.js, Node.js **
+- 📧 My email is "Juanpablopillcomamani1998@gmail.com"
 
